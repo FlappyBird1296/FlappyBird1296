@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @FlappyBird1296
-- 👀 I’m interested in ...
+- 👀 I’m interested in AI/Ml and Robotics...
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on instagram
+- 💞️ I’m looking to collaborate on instagram, Oonam_1209;
 - 📫 How to reach me mgmanostar@gmail.com
-- 😄 Pronouns: he/gim
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: insects lay eggs
 
 <!---

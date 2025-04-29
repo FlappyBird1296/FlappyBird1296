@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FlappyBird1296
+- 👋 Hi, I’m @manoranjanG1296
 - 👀 I’m interested in AI/Ml and Robotics...
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on instagram, Oonam_1209;
